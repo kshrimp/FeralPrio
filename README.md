@@ -4,7 +4,7 @@ A lightweight feral cat priority display for Warmane's original Wrath of the Lic
 
 ## Install
 
-Copy this `FeralPrio` folder into `Interface/AddOns`, then restart the game or type `/reload`.
+Download the repository ZIP, open its `FeralPrio-main` folder, and copy the **inner `FeralPrio` folder** into `Interface/AddOns`. Then restart the game or type `/reload`.
 
 The display shows a projected sequence while in Cat Form with a living hostile target. The first icon glows when its ability is ready. A number on an icon estimates how long until it is usable or should be refreshed, based on energy, cooldown, and active timers. Tiger's Fury appears to the left of the regular action row when it is ready at low energy.
 
