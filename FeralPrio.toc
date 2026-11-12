@@ -1,7 +1,0 @@
-## Interface: 30300
-## Title: FeralPrio
-## Notes: Feral cat priority suggestions for Wrath 3.3.5a
-## SavedVariables: FeralPrioDB
-
-FeralPrio.lua
-
